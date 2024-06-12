@@ -56,8 +56,11 @@ body {
 
 .title {
     position: absolute;
-    margin-top: 75%;
+    margin-top: 50%;
     left: 12%;
     font-size: 35px;
     color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
 }
