@@ -53,3 +53,11 @@ body {
     border-radius: 50px;
     box-shadow: 10px 10px 90px #f20044;
 }
+
+.title {
+    position: absolute;
+    margin-top: 15%;
+    left: 40%;
+    font-size: 50px;
+    color: aliceblue;
+}
