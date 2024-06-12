@@ -61,6 +61,6 @@ body {
     font-size: 35px;
     color: aliceblue;
     align-items: center;
-    justify-content: center;
-    align-content: center;
+    /* justify-content: center; */
+    /* align-content: center; */
 }
